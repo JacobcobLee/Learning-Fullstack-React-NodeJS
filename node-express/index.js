@@ -15,6 +15,7 @@ app.use(express.static(__dirname + '/public'));
 app.use((req, res, next) =>{
     res.statusCode = 200;
     res.setHeader('Content-Type', 'text/html');
+    //res.end is the display for the server
     res.end('<html><body><h1> this is an express server</h1></body></html>');
 });
 
