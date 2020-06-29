@@ -1,4 +1,4 @@
-# Learning-reactNative
+# Learning-NodeJS
 Just a humble repo documenting my journey to react framework greatness!
 
 //Bootstrap basics//. First branch ive created besides masters
